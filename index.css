@@ -1,0 +1,35 @@
+.name{
+    background-color:rgb(252, 192, 244);
+    border: 4ch;
+ 
+}
+ 
+.hola{
+    background-color: rgb(129, 86, 126);
+    text-align: center;
+
+   
+}
+ 
+.n{
+    background-color: rgb(252, 192, 244);
+    border: 4ch;
+ 
+}
+ 
+.nem{
+    background-color: rgb(252, 192, 244);
+    border: 4ch;
+ 
+}
+label{
+    display: block;
+}
+inputsong_form{
+    display: block;
+}
+
+.b{
+    background-color: blueviolet;
+}
+
